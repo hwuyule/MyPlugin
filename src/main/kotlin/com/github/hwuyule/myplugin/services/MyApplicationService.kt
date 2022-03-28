@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hwuyule.myplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hwuyule.myplugin.MyBundle
 
 class MyApplicationService {
 
